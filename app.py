@@ -1,8 +1,9 @@
-from flask import Flask,request,render_template
+#from flask import Flask,request,render_template
 #from covid import Covid
 #from covid_india import states
 #from datetime import datetime
 
+from flask import Flask
  
 app = Flask(__name__)
  
