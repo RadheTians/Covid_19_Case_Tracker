@@ -1,5 +1,8 @@
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,render_template
+from covid import Covid
+from covid_india import states
+from datetime import datetime
 app = Flask(__name__)
 
 @app.route('/getmsg/', methods=['GET'])
