@@ -17,7 +17,7 @@ This application is developed in Python Flask (a web framework for rapid develop
 
 
 ## How to Use
-    https://thawing-shelf-97252.herokuapp.com/
+https://thawing-shelf-97252.herokuapp.com/
 
 ## USAGE
    
