@@ -1,7 +1,7 @@
 from flask import Flask,request,render_template
 #from covid import Covid
 #from covid_india import states
-from datetime import datetime
+#from datetime import datetime
 
  
 app = Flask(__name__)
