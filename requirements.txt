@@ -5,5 +5,3 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-covid
-covid-india
