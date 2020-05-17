@@ -12,7 +12,12 @@ This application is developed in Python Flask (a web framework for rapid develop
   <img src="Snapshot/112.png">
 </p>
 
-## Add Features
+## Added Features
+
+    1. Attractive GUI interface
+    2. Collect data from worldometers and show to interface
+    3. Total no of cases, Total cured, Total deaths
+    4. All three above information of all states in India
 
 
 
